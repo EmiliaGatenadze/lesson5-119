@@ -1,3 +1,6 @@
+body{
+	height: 1800px;
+}
 /*header code*/
 .logo {
 	display: inline-block;
@@ -10,6 +13,7 @@
 	display: inline-block;
 	margin-right: 15px;
 }
-.header{
-	
+.header-wraper{
+	background-color: lightblue;
+	padding: 30px;
 }
