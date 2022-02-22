@@ -1,1 +1,15 @@
-
+/*header code*/
+.logo {
+	display: inline-block;
+	margin-right: 50px;
+}
+.navigation {
+	display: inline-block;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 15px;
+}
+.header{
+	
+}
