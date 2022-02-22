@@ -1,5 +1,6 @@
 body{
 	height: 1800px;
+	padding-top: 76px ;
 }
 /*header code*/
 .logo {
@@ -16,4 +17,11 @@ body{
 .header-wraper{
 	background-color: lightblue;
 	padding: 30px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
 }
+/*.section-about{
+	margin-top: 76px;
+}*/
